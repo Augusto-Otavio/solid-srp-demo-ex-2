@@ -1,0 +1,9 @@
+{
+    "name": "unimar/products-srp-demo",
+    "description": "Projeto de cadastro e listagem de produtos com SRP.",
+    "autoload": {
+        "psr-4": {
+            "ProductsSRPDemo\\": "src/"
+        }
+    }
+}
